@@ -1,6 +1,9 @@
 [project]
 dependencies = [
     "nltk>=3.9.2",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "seaborn>=0.13.2",
 ]
 name = "code"
 version = "0.1.0"
